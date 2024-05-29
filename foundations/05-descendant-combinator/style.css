@@ -1,0 +1,27 @@
+
+/* - - Class Selector - - */
+
+/* .container .text {
+    background-color: rgb(238, 255, 0);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* - - Type Selector - - */
+
+/* div p {
+    background-color: rgb(238, 255, 0);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}  */
+
+/* - - Type *AND* Class Selector - - */
+
+div .text {
+    background-color: rgb(238, 255, 0);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.odd-n{
+    background-color: #ec5353;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#n-2{
+    color: #21a0e9;
+    font-size: 32px;
+}
+
+#n-4{
+    background-color: #5eeb65;
+    /* font-size: 24px; */
+    font-weight: bold;
+}
+
+.odd-n2{
+    font-size: 24px;
+}
